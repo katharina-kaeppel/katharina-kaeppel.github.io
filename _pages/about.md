@@ -15,3 +15,14 @@ Prior to starting the PhD, I worked one year as part of J-PAL's team at the MIT 
 
 Research
 ======
+
+### Working Papers
+
+[The Causal Impact of Children? Rethinking The Identification and Estimation of Child Penalties](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5937081)
+
+### Work in Progress
+
+The effect of online tutoring on students' academic and socio-emotional skills in France, with Quentin Daviot and [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/)
+
+
+
