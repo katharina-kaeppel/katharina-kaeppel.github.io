@@ -11,7 +11,9 @@ I am a first year PhD student at the [Paris School of Economics (PSE)](https://w
 
 My research interests lie in gender and labor economics as well as applied econometrics. 
 
-Prior to starting the PhD, I worked one year as part of J-PAL's team at the MIT headquarters, and one year as a Research Manager at the [Center for Evaluation and Development](https://c4ed.org/) in Mannheim, Germany. I hold a MSc on Analysis and Policy in Economics from Paris School of Economics and [EHESS](https://www.ehess.fr/fr). I also obtained a dual master's degree in International Development from [Sciences Po Paris](https://www.sciencespo.fr/fr/) and Political Economy of Emerging Markets from [King's College London](https://www.kcl.ac.uk/), and an undergraduate degree in Economics from [Goethe University Frankfurt](uni-frankfurt.de/en?) in Germany. 
+Prior to starting the PhD, I worked as part of J-PAL's team at the MIT headquarters, and as a Research Manager at the [Center for Evaluation and Development](https://c4ed.org/) in Mannheim, Germany. I hold a MSc on Analysis and Policy in Economics from Paris School of Economics and [EHESS](https://www.ehess.fr/fr). I also obtained a dual master's degree in International Development from [Sciences Po Paris](https://www.sciencespo.fr/fr/) and Political Economy of Emerging Markets from [King's College London](https://www.kcl.ac.uk/), and an undergraduate degree in Economics from [Goethe University Frankfurt](uni-frankfurt.de/en?) in Germany. 
+
+In May 2026, I will be at LSE, visting [Camille Landais](https://www.lse.ac.uk/people/camille-landais). 
 
 Research
 ======
