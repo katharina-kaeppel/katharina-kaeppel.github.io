@@ -21,8 +21,7 @@ Research
 ### Working Papers
 
 [The Causal Impact of Children? Rethinking The Identification and Estimation of Child Penalties](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5937081)
-
-Best PhD Paper Award, ESPE 2026
+_Best PhD Paper Award, ESPE 2026_
 
 ### Selected Work in Progress
 
