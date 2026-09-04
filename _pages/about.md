@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/) under the supervision of [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/). I also work part time as a Senior Research and Policy Associate at [J-PAL Europe](https://www.povertyactionlab.org/j-pal-europe). 
+I am a second year PhD student at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/) under the supervision of [Thomas Breda](https://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/). I also work part time as a Senior Research and Policy Associate at [J-PAL Europe](https://www.povertyactionlab.org/j-pal-europe). 
 
 My research interests lie in gender and labor economics as well as applied econometrics. 
 
