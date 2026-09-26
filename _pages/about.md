@@ -25,7 +25,7 @@ _Best PhD Paper Award, ESPE 2026_
 
 ### Selected Work in Progress
 
-Gendered consumption on social media, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Philine Widmer](https://philinew.github.io/)
+Gendered consumption on social media, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), Alberto Ornaghi, and [Philine Widmer](https://philinew.github.io/)
 
 The effect of online tutoring on students' academic and socio-emotional skills in France, with Quentin Daviot and [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/)
 
