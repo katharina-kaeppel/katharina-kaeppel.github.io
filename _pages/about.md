@@ -11,7 +11,7 @@ I am a second year PhD student at the [Paris School of Economics (PSE)](https://
 
 My research interests lie in gender and labor economics as well as applied econometrics. 
 
-Prior to starting the PhD, I worked as part of J-PAL's team at MIT, and as a Research Manager at the [Center for Evaluation and Development](https://c4ed.org/) in Mannheim, Germany. I hold a MSc on Analysis and Policy in Economics from Paris School of Economics and [EHESS](https://www.ehess.fr/fr). I also obtained a dual master's degree in International Development from [Sciences Po Paris](https://www.sciencespo.fr/fr/) and Political Economy of Emerging Markets from [King's College London](https://www.kcl.ac.uk/), and an undergraduate degree in Economics from [Goethe University Frankfurt](uni-frankfurt.de/en?) in Germany. 
+Prior to starting the PhD, I worked as a Senior Research Associate at J-PAL, and as a Research Manager at the [Center for Evaluation and Development](https://c4ed.org/) in Mannheim, Germany. I hold a MSc on Analysis and Policy in Economics from Paris School of Economics and [EHESS](https://www.ehess.fr/fr). I also obtained a dual master's degree in International Development from [Sciences Po Paris](https://www.sciencespo.fr/fr/) and Political Economy of Emerging Markets from [King's College London](https://www.kcl.ac.uk/), and an undergraduate degree in Economics from [Goethe University Frankfurt](uni-frankfurt.de/en?) in Germany. 
 
 In May 2026, I visited [Camille Landais](https://www.lse.ac.uk/people/camille-landais) at LSE.
 
@@ -27,13 +27,12 @@ _Best PhD Paper Award, ESPE 2026_
 
 Gendered consumption on social media, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), Alberto Ornaghi, and [Philine Widmer](https://philinew.github.io/)
 
-The effect of online tutoring on students' academic and socio-emotional skills in France, with Quentin Daviot and [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/)
-
 The effect of peer-to-peer tutoring on students' academic and non-academic skills, with [Mercedes Baugnies](https://ampiric.fr/membres/mercedes-baugnies), [Sofya Goldina](https://ampiric.fr/membres/sofya-goldina), [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/), [Catherine Rivier](https://www.unige.ch/fapse/idea/equipe/rivier), [Emmanuel Sander](https://www.unige.ch/fapse/idea/equipe/sander), [Maria Vazeux](https://www.reseau-inspe.fr/la-recherche/chercheurs-education/maria-vazeux/), [Johannes Ziegler](https://crpn.univ-amu.fr/fr/annuaire/ziegler-johannes)
 
 ### Pre-PhD
 
 [When Facts Fail: Experimental Evidence on Perceptions and Preferences toward Chinese Investments in Germany](https://www.zew.de/publikationen/when-facts-fail-experimental-evidence-on-perceptions-and-preferences-toward-chinese-investments-in-germany),  with [Zhexun Mo](https://sites.google.com/view/zhexunmo/home), [Carsten Schröder](https://sites.google.com/view/carstenschroeder), and [Li Yang](https://sites.google.com/view/lyang/)
-_Submitted · Media coverage: [Reuters](https://www.reuters.com/de/welt/zew-studie-deutsche-berschtzen-chinesische-investitionen-massiv-2026-09-16/)_
+_Submitted
+Media coverage: [Reuters](https://www.reuters.com/de/welt/zew-studie-deutsche-berschtzen-chinesische-investitionen-massiv-2026-09-16/)_
 
 
