@@ -33,6 +33,7 @@ The effect of peer-to-peer tutoring on students' academic and non-academic skill
 
 [When Facts Fail: Experimental Evidence on Perceptions and Preferences toward Chinese Investments in Germany](https://www.zew.de/publikationen/when-facts-fail-experimental-evidence-on-perceptions-and-preferences-toward-chinese-investments-in-germany),  with [Zhexun Mo](https://sites.google.com/view/zhexunmo/home), [Carsten Schröder](https://sites.google.com/view/carstenschroeder), and [Li Yang](https://sites.google.com/view/lyang/)
 _Submitted
+
 Media coverage: [Reuters](https://www.reuters.com/de/welt/zew-studie-deutsche-berschtzen-chinesische-investitionen-massiv-2026-09-16/)_
 
 
