@@ -27,7 +27,6 @@ _Best PhD Paper Award, ESPE 2026_
 
 Gendered consumption on social media, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), Alberto Ornaghi, and [Philine Widmer](https://philinew.github.io/)
 
-The effect of peer-to-peer tutoring on students' academic and non-academic skills, with [Mercedes Baugnies](https://ampiric.fr/membres/mercedes-baugnies), [Sofya Goldina](https://ampiric.fr/membres/sofya-goldina), [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/), [Catherine Rivier](https://www.unige.ch/fapse/idea/equipe/rivier), [Emmanuel Sander](https://www.unige.ch/fapse/idea/equipe/sander), [Maria Vazeux](https://www.reseau-inspe.fr/la-recherche/chercheurs-education/maria-vazeux/), [Johannes Ziegler](https://crpn.univ-amu.fr/fr/annuaire/ziegler-johannes)
 
 ### Pre-PhD
 
@@ -35,5 +34,7 @@ The effect of peer-to-peer tutoring on students' academic and non-academic skill
 _Submitted
 
 Media coverage: [Reuters](https://www.reuters.com/de/welt/zew-studie-deutsche-berschtzen-chinesische-investitionen-massiv-2026-09-16/)_
+
+The effect of peer-to-peer tutoring on students' academic and non-academic skills, with [Mercedes Baugnies](https://ampiric.fr/membres/mercedes-baugnies), [Sofya Goldina](https://ampiric.fr/membres/sofya-goldina), [Marc Gurgand](https://www.parisschoolofeconomics.eu/en/persons/marc-gurgand/), [Catherine Rivier](https://www.unige.ch/fapse/idea/equipe/rivier), [Emmanuel Sander](https://www.unige.ch/fapse/idea/equipe/sander), [Maria Vazeux](https://www.reseau-inspe.fr/la-recherche/chercheurs-education/maria-vazeux/), [Johannes Ziegler](https://crpn.univ-amu.fr/fr/annuaire/ziegler-johannes)
 
 
